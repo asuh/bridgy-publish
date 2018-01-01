@@ -79,7 +79,7 @@ class Bridgy_Postmeta {
 			}
 
 			$string .= ' />';
-			$string .= '<label for="bridgy_' . $key . '">' . $value . '</label>';
+			$string .= '<label for="bridgy-publish_' . $key . '">' . $value . '</label>';
 			$string .= '</li>';
 
 		}
